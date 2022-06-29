@@ -5,7 +5,7 @@ A differenza del Tetris originale, in X-Tetris il giocatore ha inizialmente a di
 # Multi Player
 Il programma supporta una seconda modalità di gioco, selezionabile dal menu iniziale, in cui due giocatori giocano a turni alterni ciascuno nel proprio campo di gioco ma pescando dallo stesso insieme di tetramini. In questa modalità si avranno il doppio di pezzi a disposizione. Nel caso in cui un giocatore cancelli una o due linee simultaneamente, il gioco procede come per il caso single player. Nel caso il giocatore cancelli 3 o più linee con una singola mossa, il campo dell’avversario viene modificato invertendo il corrispondente numero di linee nella parte più bassa del campo di gioco: una posizione vuota diventa piena e viceversa. Un giocatore perde la partita se non posiziona correttamente un pezzo nel proprio campo di gioco. Se i pezzi finiscono vince il giocatore con il punteggio più alto.
 # I tasti
-r: per ruotare il tetramino;
+r: per ruotare il tetramino;\n
 c: per cambiare tetramino e quindi passare al prossimo tetramino;
 'spazio': per aggiungere il tetramino al campo
 '<- && ->': per spostare il tetramino a destra o a sinistra dentro il campo di gioco.
