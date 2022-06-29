@@ -1,10 +1,7 @@
 # X-Tetris
-X-Tetris è una versione avanzata del gioco originale del Tetris. Per le regole del tetris puoi visitare la pagine
-Wikipedia https://it.wikipedia.org/wiki/Tetris.
+X-Tetris è una versione avanzata del gioco originale del Tetris.
 # Single Player
-A differenza del Tetris originale, in X-Tetris il giocatore ha inizialmente a disposizione 20 (o più, a voi la
-scelta) pezzi per ciascun tipo, detti tetramino, e una mossa consiste nello scegliere quale pezzo giocare, dove
-farlo cadere e con quale rotazione.
+A differenza del Tetris originale, in X-Tetris il giocatore ha inizialmente a disposizione 20 pezzi per ciascun tipo, detti tetramino, e una mossa consiste nello scegliere quale pezzo giocare, dove farlo cadere e con quale rotazione.
 Il campo di gioco è largo 10 e alto 15 posizioni. Una volta posizionato un tetramino, se una o più righe
 orizzontali vengono riempite per intero, queste righe vengono cancellate come nel tetris originale.
 La rimozione di una riga vale 1 punto, la rimozione di due righe con un solo pezzo vale 3 punti, tre righe 6
